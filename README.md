@@ -1,6 +1,10 @@
 # TFRecommendersExampleRetailData
-Tensorflow Recommenders (TFRS) with example on retail dataset.
+Tensorflow Recommenders (TFRS) with example on retail dataset, written in Python language.
 
 E-commerce dataset was provided by Olist, a Brazilian E-Commerce platform, available in Kaggle: https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 TFRS full guide is here: https://www.tensorflow.org/recommenders
+
+Tensorflow installation is here: https://www.tensorflow.org/install
+
+Tensorflow 2 only runs on most latest version of Python. I strongly recommend users to install TF and TFRS in a conda environment.
